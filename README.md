@@ -1,14 +1,15 @@
 #     
 
-# [![CodeWars](![](JavaScript/common/javascript.png))] Javascript
+# [![CodeWars](https://github.com/egorkax/codewars/blob/main/JavaScript/common/javascript.png)](Javascript) Javascript
+
+
 
 [8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU)
 | [1 KYU](#1KYU)
 
 ### <a name="8KYU">8 KYU</a>
 
-* [Help the Elite Squad of Brazilian forces BOPE](8KYU/FindNum.js)
-    - [CodeWars](https://www.codewars.com/kata/5ab52526379d20736b00000e)
+* [Help the Elite Squad of Brazilian forces BOPE](8KYU/FindNum.js)- [CodeWars](https://www.codewars.com/kata/5ab52526379d20736b00000e)
 * [Rock Paper Scissors!](8KYU/RockPaperScissors.js) - [CodeWars](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
 
 ### <a name="7KYU">7 KYU</a>
