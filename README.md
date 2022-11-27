@@ -23,6 +23,7 @@
 * [Find the unique number](JavaScript/6KYU/FindNumber.js) - [CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 * [Unique In Order](JavaScript/6KYU/UniqueInOrder.js) - [CodeWars](https://www.codewars.com/kata/54e6533c92449cc251001667)
 * [Sum of Digits / Digital Root](JavaScript/6KYU/SumDigits.js) - [CodeWars](https://www.codewars.com/kata/541c8630095125aba6000c00)
+* [Find the odd int](JavaScript/6KYU/FindOdd.js) - [CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836/javascript)
 
 ### <a name="5KYU">5 KYU</a>
 
