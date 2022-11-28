@@ -20,6 +20,8 @@
 
 ### <a name="6KYU">6 KYU</a>
 
+* [Multiples of 3 or 5](JavaScript/6KYU/Multiples.js) - [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
+* [Stop gninnipS My sdroW!](JavaScript/6KYU/StopSpinning.js) - [CodeWars](https://www.codewars.com/kata/5264d2b162488dc400000001)
 * [Find the unique number](JavaScript/6KYU/FindNumber.js) - [CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 * [Unique In Order](JavaScript/6KYU/UniqueInOrder.js) - [CodeWars](https://www.codewars.com/kata/54e6533c92449cc251001667)
 * [Sum of Digits / Digital Root](JavaScript/6KYU/SumDigits.js) - [CodeWars](https://www.codewars.com/kata/541c8630095125aba6000c00)
