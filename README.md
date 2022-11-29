@@ -20,6 +20,7 @@
 
 ### <a name="6KYU">6 KYU</a>
 
+* [Duplicate Encoder](JavaScript/6KYU/DuplicateEncoder.js) - [CodeWars](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/javascript)
 * [Multiples of 3 or 5](JavaScript/6KYU/Multiples.js) - [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006)
 * [Stop gninnipS My sdroW!](JavaScript/6KYU/StopSpinning.js) - [CodeWars](https://www.codewars.com/kata/5264d2b162488dc400000001)
 * [Find the unique number](JavaScript/6KYU/FindNumber.js) - [CodeWars](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
